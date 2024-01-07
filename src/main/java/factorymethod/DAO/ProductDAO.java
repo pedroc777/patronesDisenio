@@ -37,7 +37,7 @@ public class ProductDAO {
          * con esto, la variable de tipo IDBAdapter almacena un adaptador de BD
          * según el tipo que se proporciona
          */
-        adapter = DBAdapterFactory.getAdapter(type);
+        adapter = DBAdapterFactory.getAdapter();
     }
     
     
