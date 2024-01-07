@@ -8,6 +8,6 @@ package factorymethod.enums;
  * @author PC
  */
 public enum DBType {
-    NYSQL,
+    MYSQL,
     ORACLE
 }
