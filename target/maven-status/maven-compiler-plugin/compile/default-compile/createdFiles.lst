@@ -1,0 +1,13 @@
+patrones\abstracfactory\services\impl\rest\ProductServiceRestImpl.class
+impl\ServiceStackAbstractFactory.class
+patrones\abstracfactory\Main.class
+patrones\abstracfactory\services\IEmployeeService.class
+impl\ServiceStackAbstractFactory$1.class
+patrones\abstracfactory\services\impl\rest\EmployeeServiceRestImpl.class
+patrones\abstracfactory\services\impl\rest\RestServiceStackImpl.class
+patrones\abstracfactory\services\impl\ws\ProductServiceWSImpl.class
+patrones\abstracfactory\services\impl\ws\EmployeeServiceWSImpl.class
+patrones\abstracfactory\services\IProductService.class
+impl\IServiceStackAbstractFactory.class
+patrones\abstracfactory\services\impl\ws\WSServiceStackImpl.class
+impl\ServiceType.class
